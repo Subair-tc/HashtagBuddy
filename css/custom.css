@@ -1,0 +1,32 @@
+.courage_post_content a.hashtag {
+    margin: 0 !important;
+}
+.hashtag {
+    display: inline !important;
+    float: none;
+}
+ul.atwho-view-ul{
+	 margin: 0 !important;
+    padding: 8px 0 !important;
+    border-radius: 0px !important;
+    background: #e4e8eb !important;
+	max-width: 300px;
+}
+ul.atwho-view-ul li {
+    color: #6f7f8c !important;
+    font-size: 16px !important;
+    padding: 3px 12px !important;
+}
+
+ul.atwho-view-ul li:hover {
+    background: #ffffff !important;
+    color: #D0021B  !important;
+}
+
+ul.atwho-view-ul li.cur {
+    background: #ffffff !important;
+    color: #D0021B  !important;
+}
+.atwho-view ul.atwho-view-ul strong{
+ color: #D0021B ;
+ }
